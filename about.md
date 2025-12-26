@@ -1,1 +1,1 @@
-# hello
+Hello! My name is Hrushikesh Patel and I am an Undergraduate Mechanical Engineering student at Concordia University, Montreal. My passion for mechanical engineering began at a young age, inspired by watching my grandfather work in his manufacturing workshop. I often accompanied him and learned how to operate various tools and machines, which sparked my love for engineering. Outside of academics, I enjoy reading, casual photography, and following motorsports such as WEC, IMSA, Formula 1, and MotoGP. 
